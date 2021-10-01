@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325150381931",
+    "firebase_url": "https://delivery2-223922-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "delivery2-223922",
+    "storage_bucket": "delivery2-223922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325150381931:android:d98a81148cf1f9a5239e2e",
+        "android_client_info": {
+          "package_name": "com.pointtopoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325150381931-aa77isqf4rvjvbqg2t3jguq696d96ooo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSwYp64bT7oNlXMTrgQF8LRwE6jEfsTkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325150381931-aa77isqf4rvjvbqg2t3jguq696d96ooo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

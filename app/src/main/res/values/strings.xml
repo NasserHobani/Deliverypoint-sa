@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Point To Point</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Profile</string>
+    <string name="title_dashboard">MyOrder</string>
+    <string name="title_notifications">NewOrder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_notification_channel_id">driver</string>
+</resources>
