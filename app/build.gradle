@@ -12,7 +12,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "com.pointtopoint"
+        applicationId "com.mndoobk_d"
         minSdk 21
         targetSdk 30
         versionCode 1
