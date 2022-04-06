@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "325150381931",
-    "firebase_url": "https://delivery2-223922-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "delivery2-223922",
-    "storage_bucket": "delivery2-223922.appspot.com"
+    "project_number": "147927279168",
+    "firebase_url": "https://laravel-9c707-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "laravel-9c707",
+    "storage_bucket": "laravel-9c707.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:325150381931:android:d98a81148cf1f9a5239e2e",
+        "mobilesdk_app_id": "1:147927279168:android:d77fc2e519557754b821a5",
         "android_client_info": {
-          "package_name": "com.pointtopoint"
+          "package_name": "com.mndoobk_d"
         }
       },
       "oauth_client": [
         {
-          "client_id": "325150381931-aa77isqf4rvjvbqg2t3jguq696d96ooo.apps.googleusercontent.com",
+          "client_id": "147927279168-3a5nv5rdrt25ht05q0suucqum2h5l1b9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDSwYp64bT7oNlXMTrgQF8LRwE6jEfsTkI"
+          "current_key": "AIzaSyAnD9VoNhagUPSqJvRjd6CYx_MtKQEaL2o"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "325150381931-aa77isqf4rvjvbqg2t3jguq696d96ooo.apps.googleusercontent.com",
+              "client_id": "147927279168-3a5nv5rdrt25ht05q0suucqum2h5l1b9.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
