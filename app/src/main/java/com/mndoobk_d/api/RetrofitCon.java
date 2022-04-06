@@ -10,7 +10,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetrofitCon {
     private static Retrofit retrofit;
-    private static String BASE_URL ="https://mndoobk-d/api/";
+    private static String BASE_URL ="https://mndoobk-d.com/api/";
     private static APIInterface api;
     private Context context;
 
