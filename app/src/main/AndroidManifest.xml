@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.pointtopoint">
+    package="com.mndoobk_d">
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
@@ -13,11 +13,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Deliverypointsa">
         <activity
-            android:name=".MainActivity2"
+            android:name="com.mndoobk_d.MainActivity2"
             android:exported="true"
             android:label="@string/title_activity_main2" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.mndoobk_d.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -26,7 +26,7 @@
             </intent-filter>
         </activity>
         <service
-            android:name=".api.MyFirebaseMessagingService"
+            android:name="com.mndoobk_d.api.MyFirebaseMessagingService"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />

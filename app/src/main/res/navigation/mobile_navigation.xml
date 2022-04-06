@@ -7,24 +7,24 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.pointtopoint.ui.profile.Profile"
+        android:name="com.mndoobk_d.ui.profile.Profile"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.pointtopoint.ui.allorder.Allorder"
+        android:name="com.mndoobk_d.ui.allorder.Allorder"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.pointtopoint.ui.realtimeorder.RealtimeOrder"
+        android:name="com.mndoobk_d.ui.realtimeorder.RealtimeOrder"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
     <fragment
         android:id="@+id/na_chat"
-        android:name="com.pointtopoint.ui.rooms.FrRooms"
+        android:name="com.mndoobk_d.ui.rooms.FrRooms"
         android:label="rooms"
         tools:layout="@layout/rooms" />
 </navigation>
